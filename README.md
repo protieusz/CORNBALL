@@ -58,3 +58,6 @@ Fit Test
 ![IMG_1657](https://github.com/protieusz/CORNBALL/assets/118025702/d0b95c0b-6304-4c4d-a2d7-bbeb7f2e5956)
 ![IMG_1656](https://github.com/protieusz/CORNBALL/assets/118025702/eb8b0f04-915f-4d54-97bf-4462b852f0cb)
 
+# License
+
+MIT license.
