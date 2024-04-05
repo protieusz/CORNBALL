@@ -60,4 +60,4 @@ Fit Test
 
 # License
 
-MIT license.
+MIT licensed.
